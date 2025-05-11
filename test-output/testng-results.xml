@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-11T15:00:02 IST" name="Suite" finished-at="2025-05-11T15:00:13 IST" duration-ms="10986">
+    <groups>
+    </groups>
+    <test started-at="2025-05-11T15:00:02 IST" name="Test" finished-at="2025-05-11T15:00:13 IST" duration-ms="10986">
+      <class name="com.OpenKart.TestCases.TC_OpenKart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.OpenKart.TestCases.TC_OpenKart@10aa41f2]" started-at="2025-05-11T15:00:03 IST" name="setup" finished-at="2025-05-11T15:00:09 IST" duration-ms="6505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DoRegister()[pri:0, instance:com.OpenKart.TestCases.TC_OpenKart@10aa41f2]" started-at="2025-05-11T15:00:09 IST" name="DoRegister" finished-at="2025-05-11T15:00:13 IST" duration-ms="3928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoRegister -->
+      </class> <!-- com.OpenKart.TestCases.TC_OpenKart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
